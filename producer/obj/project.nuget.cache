@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "7lKEK/yavt/2AQ8IKRZgbWWs6YiJxDM4+IRI3bjMahCvrdP8wIcQGbHwkFRW7/zYwCpSFvtbrJbF1mzdPMvqaA==",
+  "success": true,
+  "projectFilePath": "/Users/yichenwang/kafka-dotnet-getting-started/producer/producer.csproj",
+  "expectedPackageFiles": [
+    "/Users/yichenwang/.nuget/packages/confluent.kafka/1.9.3/confluent.kafka.1.9.3.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/librdkafka.redist/1.9.2/librdkafka.redist.1.9.2.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/microsoft.extensions.configuration.binder/7.0.0/microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/microsoft.extensions.configuration.fileextensions/7.0.0/microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/microsoft.extensions.configuration.ini/7.0.0/microsoft.extensions.configuration.ini.7.0.0.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/yichenwang/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
